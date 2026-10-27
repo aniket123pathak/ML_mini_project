@@ -1,0 +1,180 @@
+PassengerId,Name,Actual,Predicted,Correct
+6,"Moran, Mr. James",Died,Died,Yes
+11,"Sandstrom, Miss. Marguerite Rut",Survived,Survived,Yes
+24,"Sloper, Mr. William Thompson",Survived,Survived,Yes
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Survived,Died,No
+31,"Uruchurtu, Don. Manuel E",Died,Died,Yes
+32,"Spencer, Mrs. William Augustus (Marie Eugenie)",Survived,Survived,Yes
+34,"Wheadon, Mr. Edward H",Died,Survived,No
+40,"Nicola-Yarred, Miss. Jamila",Survived,Died,No
+45,"Devaney, Miss. Margaret Delia",Survived,Died,No
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Died,Died,Yes
+55,"Ostby, Mr. Engelhart Cornelius",Died,Died,Yes
+64,"Skoog, Master. Harald",Died,Died,Yes
+66,"Moubarek, Master. Gerios",Survived,Died,No
+67,"Nye, Mrs. (Elizabeth Ramell)",Survived,Survived,Yes
+68,"Crease, Mr. Ernest James",Died,Died,Yes
+71,"Jenkin, Mr. Stephen Curnow",Died,Died,Yes
+73,"Hood, Mr. Ambrose Jr",Died,Died,Yes
+77,"Staneff, Mr. Ivan",Died,Died,Yes
+78,"Moutal, Mr. Rahamin Haim",Died,Died,Yes
+79,"Caldwell, Master. Alden Gates",Survived,Survived,Yes
+83,"McDermott, Miss. Brigdet Delia",Survived,Survived,Yes
+85,"Ilett, Miss. Bertha",Survived,Survived,Yes
+87,"Ford, Mr. William Neal",Died,Died,Yes
+97,"Goldschmidt, Mr. George B",Died,Died,Yes
+98,"Greenfield, Mr. William Bertram",Survived,Died,No
+110,"Moran, Miss. Bertha",Survived,Survived,Yes
+111,"Porter, Mr. Walter Chamberlain",Died,Died,Yes
+121,"Hickman, Mr. Stanley George",Died,Died,Yes
+137,"Newsom, Miss. Helen Monypeny",Survived,Survived,Yes
+138,"Futrelle, Mr. Jacques Heath",Died,Died,Yes
+140,"Giglio, Mr. Victor",Died,Died,Yes
+142,"Nysten, Miss. Anna Sofia",Survived,Survived,Yes
+166,"Goldsmith, Master. Frank John William ""Frankie""",Survived,Died,No
+169,"Baumann, Mr. John D",Died,Died,Yes
+175,"Smith, Mr. James Clinch",Died,Died,Yes
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",Survived,Died,No
+197,"Mernagh, Mr. Robert",Died,Died,Yes
+199,"Madigan, Miss. Margaret ""Maggie""",Survived,Survived,Yes
+205,"Cohen, Mr. Gurshon ""Gus""",Survived,Died,No
+209,"Carr, Miss. Helen ""Ellen""",Survived,Survived,Yes
+210,"Blank, Mr. Henry",Survived,Died,No
+211,"Ali, Mr. Ahmed",Died,Died,Yes
+212,"Cameron, Miss. Clear Annie",Survived,Survived,Yes
+214,"Givard, Mr. Hans Kristensen",Died,Died,Yes
+216,"Newell, Miss. Madeleine",Survived,Survived,Yes
+219,"Bazzani, Miss. Albina",Survived,Survived,Yes
+228,"Lovell, Mr. John Hall (""Henry"")",Died,Died,Yes
+232,"Larsson, Mr. Bengt Edvin",Died,Died,Yes
+236,"Harknett, Miss. Alice Phoebe",Died,Survived,No
+245,"Attalah, Mr. Sleiman",Died,Died,Yes
+251,"Reed, Mr. James George",Died,Died,Yes
+255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Died,Survived,No
+267,"Panula, Mr. Ernesti Arvid",Died,Died,Yes
+276,"Andrews, Miss. Kornelia Theodosia",Survived,Survived,Yes
+281,"Duane, Mr. Frank",Died,Died,Yes
+282,"Olsson, Mr. Nils Johan Goransson",Died,Died,Yes
+287,"de Mulder, Mr. Theodore",Survived,Survived,Yes
+291,"Barber, Miss. Ellen ""Nellie""",Survived,Survived,Yes
+292,"Bishop, Mrs. Dickinson H (Helen Walton)",Survived,Survived,Yes
+293,"Levy, Mr. Rene Jacques",Died,Died,Yes
+295,"Mineff, Mr. Ivan",Died,Died,Yes
+297,"Hanna, Mr. Mansour",Died,Died,Yes
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Survived,Survived,Yes
+301,"Kelly, Miss. Anna Katherine ""Annie Kate""",Survived,Survived,Yes
+307,"Fleming, Miss. Margaret",Survived,Survived,Yes
+310,"Francatelli, Miss. Laura Mabel",Survived,Survived,Yes
+312,"Ryerson, Miss. Emily Borie",Survived,Survived,Yes
+313,"Lahtinen, Mrs. William (Anna Sylfven)",Died,Survived,No
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Survived,Survived,Yes
+322,"Danoff, Mr. Yoto",Died,Died,Yes
+324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Survived,Survived,Yes
+328,"Ball, Mrs. (Ada E Hall)",Survived,Survived,Yes
+334,"Vander Planke, Mr. Leo Edmondus",Died,Died,Yes
+339,"Dahl, Mr. Karl Edwart",Survived,Died,No
+343,"Collander, Mr. Erik Gustaf",Died,Survived,No
+345,"Fox, Mr. Stanley Hubert",Died,Died,Yes
+351,"Odahl, Mr. Nils Martin",Died,Died,Yes
+358,"Funk, Miss. Annie Clemmer",Died,Survived,No
+360,"Mockler, Miss. Helen Mary ""Ellie""",Survived,Survived,Yes
+361,"Skoog, Mr. Wilhelm",Died,Died,Yes
+363,"Barbara, Mrs. (Catherine David)",Died,Died,Yes
+364,"Asim, Mr. Adola",Died,Died,Yes
+376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Survived,Survived,Yes
+389,"Sadlier, Mr. Matthew",Died,Died,Yes
+397,"Olsson, Miss. Elina",Died,Survived,No
+399,"Pain, Dr. Alfred",Died,Died,Yes
+409,"Birkeland, Mr. Hans Martin Monsen",Died,Died,Yes
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Survived,Survived,Yes
+418,"Silven, Miss. Lyyli Karoliina",Survived,Survived,Yes
+423,"Zimmerman, Mr. Leo",Died,Died,Yes
+427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Survived,Survived,Yes
+434,"Kallio, Mr. Nikolai Erland",Died,Died,Yes
+440,"Kvillner, Mr. Johan Henrik Johannesson",Died,Died,Yes
+443,"Petterson, Mr. Johan Emil",Died,Survived,No
+447,"Mellinger, Miss. Madeleine Violet",Survived,Survived,Yes
+448,"Seward, Mr. Frederic Kimber",Survived,Survived,Yes
+449,"Baclini, Miss. Marie Catherine",Survived,Survived,Yes
+458,"Kenyon, Mrs. Frederick R (Marion)",Survived,Survived,Yes
+463,"Gee, Mr. Arthur H",Died,Died,Yes
+466,"Goncalves, Mr. Manuel Estanslas",Died,Died,Yes
+478,"Braund, Mr. Lewis Richard",Died,Died,Yes
+482,"Frost, Mr. Anthony Wood ""Archie""",Died,Died,Yes
+486,"Lefebre, Miss. Jeannie",Died,Died,Yes
+494,"Artagaveytia, Mr. Ramon",Died,Died,Yes
+495,"Stanley, Mr. Edward Roland",Died,Died,Yes
+508,"Bradley, Mr. George (""George Arthur Brayton"")",Survived,Died,No
+513,"McGough, Mr. James Robert",Survived,Survived,Yes
+515,"Coleff, Mr. Satio",Died,Died,Yes
+519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Survived,Survived,Yes
+522,"Vovk, Mr. Janko",Died,Died,Yes
+528,"Farthing, Mr. John",Died,Died,Yes
+530,"Hocking, Mr. Richard George",Died,Died,Yes
+533,"Elias, Mr. Joseph Jr",Died,Died,Yes
+539,"Risien, Mr. Samuel Beard",Died,Died,Yes
+540,"Frolicher, Miss. Hedwig Margaritha",Survived,Survived,Yes
+542,"Andersson, Miss. Ingeborg Constanzia",Died,Died,Yes
+546,"Nicholson, Mr. Arthur Ernest",Died,Died,Yes
+573,"Flynn, Mr. John Irwin (""Irving"")",Survived,Survived,Yes
+579,"Caram, Mrs. Joseph (Maria Elias)",Died,Died,Yes
+585,"Paulner, Mr. Uscher",Died,Died,Yes
+586,"Taussig, Miss. Ruth",Survived,Survived,Yes
+591,"Rintamaki, Mr. Matti",Died,Died,Yes
+592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Survived,Survived,Yes
+595,"Chapman, Mr. John Henry",Died,Died,Yes
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Survived,Survived,Yes
+605,"Homer, Mr. Harry (""Mr E Haven"")",Survived,Died,No
+606,"Lindell, Mr. Edvard Bengtsson",Died,Died,Yes
+612,"Jardin, Mr. Jose Neto",Died,Died,Yes
+621,"Yasbeck, Mr. Antoni",Died,Died,Yes
+622,"Kimball, Mr. Edwin Nelson Jr",Survived,Died,No
+626,"Sutton, Mr. Frederick",Died,Died,Yes
+644,"Foo, Mr. Choong",Survived,Died,No
+653,"Kalvik, Mr. Johannes Halvorsen",Died,Died,Yes
+654,"O'Leary, Miss. Hanora ""Norah""",Survived,Survived,Yes
+658,"Bourke, Mrs. John (Catherine)",Died,Survived,No
+660,"Newell, Mr. Arthur Webster",Died,Died,Yes
+669,"Cook, Mr. Jacob",Died,Died,Yes
+670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Survived,Survived,Yes
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Survived,Survived,Yes
+674,"Wilhelms, Mr. Charles",Survived,Died,No
+683,"Olsvigen, Mr. Thor Anderson",Died,Died,Yes
+689,"Fischer, Mr. Eberhard Thelander",Died,Died,Yes
+697,"Kelly, Mr. James",Died,Died,Yes
+710,"Moubarek, Master. Halim Gonios (""William George"")",Survived,Died,No
+713,"Taylor, Mr. Elmer Zebley",Survived,Died,No
+721,"Harper, Miss. Annie Jessie ""Nina""",Survived,Survived,Yes
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",Died,Died,Yes
+740,"Nankoff, Mr. Minko",Died,Died,Yes
+768,"Mangan, Miss. Mary",Died,Survived,No
+773,"Mack, Mrs. (Mary)",Died,Survived,No
+774,"Elias, Mr. Dibo",Died,Died,Yes
+778,"Emanuel, Miss. Virginia Ethel",Survived,Survived,Yes
+779,"Kilgannon, Mr. Thomas J",Died,Died,Yes
+786,"Harmer, Mr. Abraham (David Lishin)",Died,Died,Yes
+791,"Keane, Mr. Andrew ""Andy""",Died,Died,Yes
+794,"Hoyt, Mr. William Fisher",Died,Survived,No
+797,"Leader, Dr. Alice (Farnham)",Survived,Survived,Yes
+803,"Carter, Master. William Thornton II",Survived,Survived,Yes
+809,"Meyer, Mr. August",Died,Died,Yes
+815,"Tomlin, Mr. Ernest Portage",Died,Died,Yes
+820,"Skoog, Master. Karl Thorsten",Died,Died,Yes
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Survived,Survived,Yes
+823,"Reuchlin, Jonkheer. John George",Died,Died,Yes
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",Survived,Died,No
+834,"Augustsson, Mr. Albert",Died,Died,Yes
+836,"Compton, Miss. Sara Rebecca",Survived,Survived,Yes
+838,"Sirota, Mr. Maurice",Died,Died,Yes
+841,"Alhomaki, Mr. Ilmari Rudolf",Died,Died,Yes
+843,"Serepeca, Miss. Augusta",Survived,Survived,Yes
+846,"Abbing, Mr. Anthony",Died,Died,Yes
+850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Survived,Survived,Yes
+853,"Boulos, Miss. Nourelain",Died,Died,Yes
+854,"Lines, Miss. Mary Conover",Survived,Survived,Yes
+855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Died,Survived,No
+877,"Gustafsson, Mr. Alfred Ossian",Died,Died,Yes
+878,"Petroff, Mr. Nedelio",Died,Died,Yes
+886,"Rice, Mrs. William (Margaret Norton)",Died,Died,Yes
+887,"Montvila, Rev. Juozas",Died,Died,Yes
+890,"Behr, Mr. Karl Howell",Survived,Survived,Yes
