@@ -12,10 +12,10 @@ Mini project - predicts whether a Titanic passenger survived or not using **supe
 | `survival_predictions.csv` | Actual vs predicted result for test passengers |
 
 ## Models used
-Logistic Regression, Random Forest
+Logistic Regression, AdaBoost
 
 ## Result
-Random Forest performed best with **82.7% accuracy** on the test data.
+Both models reached **79.9% accuracy** on the test data. Logistic Regression was selected as the final model because of its slightly higher F1-score (0.75 vs 0.74).
 
 ## How to run
 ```bash
