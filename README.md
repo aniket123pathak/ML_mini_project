@@ -12,7 +12,9 @@ Mini project - predicts whether a Titanic passenger survived or not using **supe
 | `survival_predictions.csv` | Actual vs predicted result for test passengers |
 
 ## Models used
-Logistic Regression, Decision Tree, Random Forest, AdaBoost
+Logistic Regression, Decision Tree, Random Forest, AdaBoost (weak learner = decision stump, `max_depth=1`, 50 estimators)
+
+The notebook also shows how `n_estimators` (and the weak learner / `max_depth`) affects the accuracy of AdaBoost, Random Forest and Decision Tree.
 
 ## Result
 Random Forest performed best with **82.7% accuracy** on the test data. Logistic Regression, AdaBoost and Decision Tree each reached 79.9%.
